@@ -1,0 +1,21 @@
+
+/**
+ * help logo logo.
+ */
+
+.logo[data-logo="help logo"] {
+  width: 0;
+}
+
+.logo[data-logo="help logo"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="help logo"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="help logo"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}
