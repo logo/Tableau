@@ -3,7 +3,7 @@
   "name": "Tableau",
   "repo": "logo/Tableau",
   "description": "The help logo logo.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "styles": [
     "index.css"
